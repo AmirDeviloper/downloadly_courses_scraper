@@ -1,7 +1,5 @@
 # 🕸️ Downloadly Courses Web Scraper in Python  
 
-> 🕒 **Note:** This project was originally developed in **November 2025** and uploaded to GitHub for **portfolio and documentation purposes**.  
-
 This project introduces a **Python-based web scraping tool** for extracting and displaying course information from the **Downloadly** website. It demonstrates practical use of `requests` and `BeautifulSoup` for structured data extraction, making it a strong example of **clean code**, **modular design**, and **real-world data parsing**.  
 
 The scraper is designed to be **lightweight**, **extensible**, and **easy to integrate**, making it suitable for both educational purposes and as a foundation for more advanced data collection systems.  
@@ -26,9 +24,6 @@ To run or integrate this project, you’ll need:
 - 📦 `requests` library  
 - 📦 `beautifulsoup4` library  
 - 🔧 Basic knowledge of Python scripting and HTML structure  
-
----
-
 
 ---
 
