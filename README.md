@@ -21,8 +21,7 @@ The scraper is designed to be **lightweight**, **extensible**, and **easy to int
 To run or integrate this project, you’ll need:  
 
 - 💻 Python 3.8 or newer  
-- 📦 `requests` library  
-- 📦 `beautifulsoup4` library  
+- 📦 `requests` and `beautifulsoup4` library
 - 🔧 Basic knowledge of Python scripting and HTML structure  
 
 ---
