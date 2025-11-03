@@ -11,7 +11,7 @@ The scraper is designed to be **lightweight**, **extensible**, and **easy to int
 - 📚 **Course Data Extraction** – Retrieve course titles, categories, and links  
 - 🧩 **Modular Architecture** – Easy to extend for additional fields (e.g., instructors, dates)  
 - 🛡️ **Error Handling** – Gracefully manages unavailable or changed pages  
-- ⚡ **Lightweight & Fast** – Efficient parsing with minimal dependencies  
+- ⚡ **Lightweight & Fast** – Efficient multithread parsing with minimal dependencies  
 - 🌐 **Unicode & RTL Support** – Handles multilingual content including Persian  
 
 ---
